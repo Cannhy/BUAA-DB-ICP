@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+.background {
+  height: 100vh;
+  background-image: url("../img/background.png");
+}
+
+.main {
+  height: 100vh;
+}
+
+.heading_left {
+  font-size: 20px;
+  display: inline-flex;
+  float: left;
+  margin-top: 20px;
+}
+
+.heading_right {
+  font-size: 20px;
+  display: inline-flex;
+  float: right;
+}
+
+.header {
+  line-height: 60px;
+}
